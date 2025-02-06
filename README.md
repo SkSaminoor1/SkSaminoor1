@@ -12,7 +12,7 @@
 
 ### 🚀 Languages and Tools:
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" />
+  <img src="https://github.com/user-attachments/assets/12e5c51a-6e2b-4fa5-96cc-ecfcad50e793" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
