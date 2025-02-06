@@ -12,7 +12,7 @@
 
 ### 🚀 Languages and Tools:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12e5c51a-6e2b-4fa5-96cc-ecfcad50e793" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -49,6 +49,11 @@
 ### 🔗 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/sk saminoor" target="blank">
+
+
+
+
+    
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk saminoor" height="30" width="40" />
   </a>
   <a href="https://fb.com/sk saminoor" target="blank">
