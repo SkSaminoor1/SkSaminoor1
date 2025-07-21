@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Data%20Analyst-PowerBI%20%7C%20SQL%20%7C%20Python-blue" alt="skills-badge" />
 </p>
 
-- 🔭 I’m currently working on **PC assistant with AI**
+- 🔭 I’m currently working on **Road Accident Data Analyst Project**
 
-- 🌱 I’m currently learning **PowerBi**
+- 🌱 I’m currently learning **Tableu**
 
 - 📫 How to reach me **sksaminoor25@gmail.com**
 
