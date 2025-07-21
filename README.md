@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Road Accident Data Analyst Project**
 
-- 🌱 I’m currently learning **Tableu**
+- 🌱 I’m currently learning **Tableau**
 
 - 📫 How to reach me **sksaminoor25@gmail.com**
 
