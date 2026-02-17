@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sk Saminoor Hossain</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+data+into+insights+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+&+Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+data+into+insights+%F0%9F%9A%80" />
 </h3>
 
 <p align="left"> 
