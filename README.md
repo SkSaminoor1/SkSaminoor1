@@ -109,18 +109,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkSaminoor1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkSaminoor1&layout=compact&locale=en" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SkSaminoor1" alt="GitHub Streak" />
-</p>
 ---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github.com/SkSaminoor1/SkSaminoor1/blob/output/snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+### 🔗 Connect with Me
 
 ### 🔗 Connect with Me
 
