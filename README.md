@@ -106,30 +106,17 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/SkSaminoor1/SkSaminoor1/blob/output/snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
 ### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sk saminoor" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40" />
   </a>
 
   <a href="https://instagram.com/its_king_sk0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -139,4 +126,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SkSaminoor1/SkSaminoor1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SkSaminoor1/SkSaminoor1/output/snake.svg"
+     alt="GitHub Contribution Snake" />
