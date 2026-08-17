@@ -106,20 +106,20 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sksaminoor1&show_icons=true&locale=en&layout=compact" alt="sksaminoor1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkSaminoor1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksaminoor1&show_icons=true&locale=en" alt="sksaminoor1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkSaminoor1&layout=compact&locale=en" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksaminoor1" alt="sksaminoor1" />
+  <img src="https://streak-stats.demolab.com/?user=SkSaminoor1" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🔗 Connect with Me
